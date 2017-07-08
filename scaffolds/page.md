@@ -1,4 +1,4 @@
 ---
 title: {{ title }}
-date: {{ date }}2222
+date: {{ date }}
 ---
